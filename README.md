@@ -1,12 +1,12 @@
-##Test Task.
+# Test Task
 The object of this task is to load the animated model in-browser 3D scene. You need to develop one of 2 cases.
 
 You can take the 3D model here: https://www.mixamo.com 
 
-###Acceptance criteria.
+### Acceptance criteria.
 When I open the URL in the browser, I can see the animated 3D model staying on the ground. If I drag and drop I can rotate the Scene and see the sky and a sun.
 
-####Case 1.
+#### Case 1.
 The ThreeJS Scene should include:
 * Scene
 * Camera
@@ -16,7 +16,7 @@ The ThreeJS Scene should include:
 * PlaneGeometry as a ground
 * SphereGeometry as a sky
 
-####Case 2.
+#### Case 2.
 The A-Frame Scene should include:
 * &lt;a-scene&gt;
 * &lt;a-camera&gt;
